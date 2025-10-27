@@ -8,3 +8,12 @@ tqdm
 matplotlib
 jupyter
 notebook
+pypdf
+sentence-transformers
+chromadb
+numpy
+yfinance
+fastapi
+uvicorn[standard]
+pydantic
+tqdm
