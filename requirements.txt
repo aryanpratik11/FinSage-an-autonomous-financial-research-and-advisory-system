@@ -17,3 +17,8 @@ fastapi
 uvicorn[standard]
 pydantic
 tqdm
+transformers 
+torch 
+requests
+chromadb
+sentence-transformers
